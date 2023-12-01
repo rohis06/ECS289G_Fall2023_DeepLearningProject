@@ -1,0 +1,7 @@
+Speaker 00:  you
+Speaker 00:  Hey Shreyas, how's your day going?
+Speaker 01:  Hi Rohit, my day is going good, how about yours?
+Speaker 00:  Oh, that's great. Yeah, even mine's going great. I just got done with my artificial intelligence presentation a while ago, and now I'm working on my project for it. How about you?
+Speaker 01:  I am just working on an assignment for my linear algebra course which is due by midnight
+Speaker 00:  Oh, great. So, let's see how this audio transcript works in our Hugging Face model.
+Speaker 00:  Shud.
