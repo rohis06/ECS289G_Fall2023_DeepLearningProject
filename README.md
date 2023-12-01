@@ -19,6 +19,8 @@ This ECS 289G project that addresses the challenges of manual transcription in m
 
 5. **Output Format**: The final output is generated in the form of a PDF, containing grammar-corrected and coherent transcriptions along with additional notes.
 
+## Methodology
+
 ![Methodology](method.png)
 
 ## Results
