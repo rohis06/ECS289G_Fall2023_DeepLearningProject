@@ -23,4 +23,4 @@ This ECS 289G project that addresses the challenges of manual transcription in m
 
 ## Results
 
-The system demonstrates impressive results in both automatic speech recognition and grammar error correction, with Word Error Rate (WER) of 0.0247, Character Error Rate (CER) of 0.0959, and Grammar Error Correction using GLEU scores of 55.02 for pretrained BERT+Rule Check and 40.70 for Finetuned T5.
+The system demonstrates impressive results in both automatic speech recognition and grammar error correction. Automatic Speech Recongition task achieved Word Error Rate (WER) of 0.0247, Character Error Rate (CER) of 0.0959, whereas Grammar Error Correction task achieved GLEU scores of 55.02 for pretrained BERT+Rule Check and 40.70 for Finetuned T5.
